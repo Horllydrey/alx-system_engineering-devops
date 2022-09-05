@@ -1,1 +1,2 @@
+#!/bin/bash
 echo "Horllydrey School" | cat > '\*\\'\''"Horllydrey School"\'\''\\*$\?\*\*\*\*\*:)'
